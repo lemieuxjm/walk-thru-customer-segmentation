@@ -4,7 +4,7 @@
  - From the Karina Datascientist's Newsletter by Karina Samsonova
  - Dated 3/13/2026
 
-I worked through this sample project from The Karina Datascientist's Newsletter, which provided an opportunity to explore the different customers in a retailer's customer and order list. The data is from an actual UK based online retailer for transactions occurring between January 2010 and September 2011 and can be found in the UC Irvine Machine Learning Repository "Online Retail" (also called number 352).
+I worked through this sample project from The Karina Datascientist's Newsletter, which provided an opportunity to explore the different customers in a retailer's customer and order list. The data is from an actual UK based online retailer for transactions occurring between January 2010 and September 2011 and can be found in the UC Irvine Machine Learning Repository called ["Online Retail"](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 The goals of this exercise were 
 1. practicing data ingestion, feature engineering, and unsupervised learning with K-Means clustering
